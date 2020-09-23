@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-#### Python program of the binary-coded Genetic Algorithm to solve the maximization and minimization problem using:
+#### Python program of binary-coded genetic algorithm to solve the maximization and minimization problem using:
 ##### - Roulette-wheel reproduction scheme,<br>
 ##### - two point crossover, and<br>
 ##### - bit-wise mutation.<br><br>
